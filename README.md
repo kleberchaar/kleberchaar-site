@@ -21,3 +21,5 @@
 - Seção Sobre com fotografia cinematográfica preservada.
 - Fallback local para IMOB 2026.
 - Pronto para Cloudflare Pages.
+
+- Texto 'Direção, fotografia e montagem com olhar cinematográfico.' organizado em 3 linhas com alinhamento justificado.
